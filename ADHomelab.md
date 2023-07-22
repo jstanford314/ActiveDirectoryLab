@@ -84,6 +84,7 @@ PowerShell Scripting for Automation:  <br/>
 - Start learning the basics of PowerShell and its syntax by following tutorials and examples available online.
 - Write PowerShell scripts to automate repetitive tasks, such as creating multiple users with specific properties or modifying GPO settings.
 - Test your scripts in a controlled environment before applying them in your production domain.
+- Script used will be attached to repo AD_PS-master.zip
 <br />
 
 Experiment and Explore:  <br/>
